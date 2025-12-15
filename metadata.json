@@ -1,0 +1,5 @@
+{
+  "name": "Live Financial Dashboard (Iran)",
+  "description": "Real-time dashboard displaying Gold 18k, USD, Euro, Iranian Oil, and Global Gold Ounce prices using Gemini Search Grounding.",
+  "requestFramePermissions": []
+}
